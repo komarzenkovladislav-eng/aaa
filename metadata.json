@@ -1,0 +1,6 @@
+{
+  "name": "Калькулятор",
+  "description": "Базовый калькулятор с современным Material 3 дизайном, поддержкой истории вычислений и процентами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

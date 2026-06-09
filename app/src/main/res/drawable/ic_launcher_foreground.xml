@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Plus symbol in Top Left quadrant (center x=36, y=36) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M28,36h16 M36,28v16" />
+    <!-- Minus symbol in Top Right quadrant (center x=72, y=36) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M64,36h16" />
+    <!-- Multiply symbol in Bottom Left quadrant (center x=36, y=72) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M30,66l12,12 M42,66l-12,12" />
+    <!-- Equals symbol in Bottom Right quadrant (center x=72, y=72) in brand AccentColor (#FF9F0A) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF9F0A"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M64,69h16 M64,75h16" />
+</vector>
